@@ -1,37 +1,63 @@
-Get Started with WDYM City Node
+// WDYM City Node Setup Guide
 
-Welcome to the WDYM City Node software, engineered for a seamless experience on 64-bit Windows Desktop platforms. This software is ideal for users managing up to 100 license keys, offering a robust framework for your digital node management endeavors.
+/*
+ * Welcome to the WDYM City Node Software Installation and Setup Guide.
+ * Designed for seamless operation on 64-bit Windows Desktop environments.
+ * Follow the steps below to begin your journey.
+ */
 
-Secure Your License
-Begin your WDYM City Node journey by acquiring a license. Visit our official site to purchase your WDYM City Node License:
+// Step 1: Secure Your License
+/*
+ * URL: https://node.wdym.wtf
+ * ACTION: Visit the above URL to purchase your WDYM City Node License.
+ */
+String licenseURL = "https://node.wdym.wtf";
+System.out.println("Purchase your license here: " + licenseURL);
 
-Secure Your License https://node.wdym.wtf/
+// System Requirements
+/*
+ * Ensure your system meets the following specifications for optimal performance.
+ */
+class SystemRequirements {
+    int RAM = 4; // GB
+    int CPU_CORES = 2;
+    int STORAGE = 30; // GB available disk space
+    String PROCESSOR_ARCHITECTURE = "x86, x64";
+    boolean INTERNET_CONNECTION = true;
+}
 
-System Requirements
+// Step 2: Download Software
+/*
+ * ACTION: Follow the link provided after license purchase to download the WDYM City Node software.
+ */
+String downloadLink = "Check your purchase confirmation email for the download link.";
+System.out.println(downloadLink);
 
-For an unparalleled experience and to ensure your system is fully equipped to handle the demands of a WDYM City Node, we recommend the following system specifications:
+// Step 3: Installation
+/*
+ * ACTION: Run the downloaded installer and follow on-screen instructions.
+ */
+System.out.println("Run the installer and follow the on-screen instructions to complete the installation.");
 
-RAM: Minimum of 4 GB, to ensure smooth multitasking and efficient handling of operations.
-CPU: At least 2 CPU cores, for optimized processing and system responsiveness.
-Storage: 30 GB of free disk space, to store the software, blockchain data, and manage overhead effectively.
-Processor: Compatibility with both x86 and x64 architectures, accommodating a broad spectrum of modern computing devices.
-Internet Connection: A stable and reliable internet connection is essential for continuous network synchronization and maintaining current node operations.
-These recommendations are designed to support the WDYM City Node software's scalable architecture, enabling users to effortlessly manage their nodes and scale their operations by acquiring additional license keys as needed.
+// Step 4: Activation
+/*
+ * ACTION: Launch the WDYM City Node application and enter your license key to activate.
+ */
+System.out.println("Launch WDYM City Node and enter your license key to activate your node.");
 
-Installation Guide
+// Expanding Your Node Empire
+/*
+ * INFO: To add more license keys and scale your operations, follow the guide in the application.
+ */
+System.out.println("To add more license keys, refer to the 'Add License' section within the application.");
 
-License Purchase: Start by purchasing your license at our website.
-Download Software: Upon license confirmation, you will receive a link to download the WDYM City Node software.
-Installation: Run the installer and follow the on-screen instructions to install the software on your Windows Desktop environment.
-Activation: Launch the WDYM City Node application and enter your license key to activate your node.
-Expanding Your Node Empire
+// Support and Assistance
+/*
+ * If you require assistance, our support team is here to help.
+ */
+String supportURL = "https://support.node.wdym.wtf";
+System.out.println("For support, visit: " + supportURL);
 
-As your node empire grows, the WDYM City Node software is ready to scale with you. Adding more license keys is straightforward, and our platform is designed to handle increased workload efficiently, ensuring your expansion is as smooth as your initial setup.
-
-Support and Assistance
-
-Should you require any assistance or have questions regarding the WDYM City Node software, our dedicated support team is here to help. Visit our support center or contact us directly through our website.
-
-Welcome to the future of node management with WDYM City Node – where scalability meets performance.
-
-This upgraded version aims to provide a more detailed and structured guide for potential users, emphasizing ease of use, scalability, and support, ensuring users have all the information they need to get started and expand their operations with WDYM City Node software.
+/*
+ * Thank you for choosing WDYM City Node. Happy node management!
+ */
