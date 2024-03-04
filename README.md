@@ -1,3 +1,4 @@
+#  WDYM City Node Set Up
 The WDYM City Node software is designed for seamless operation in 64-bit Windows Desktop environments, tailored for users holding up to 100 license keys. To embark on your journey with WDYM City Node, the first step is to secure your license by visiting https://node.wdym.wtf to purchase your WDYM City Node License.
 
 For an optimal experience and to ensure your system can handle the demands of managing a node with such capacity, the following system specifications are strongly recommended:
